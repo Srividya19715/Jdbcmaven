@@ -4,4 +4,7 @@
                            THAT IS ONLY ADDING:
  --------------------------------------------------------------------------
 
-                               COPYRIGHT
+                              
+			      COPYRIGHT
+
+			    SIMPLE - CHANGES
