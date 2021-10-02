@@ -1,9 +1,4 @@
  Nothing much just adding file to commit which i want to push again in my repository
- I am using this file to demonstrate automatic merge.
-
-<<<<<<< HEAD
-
-             I am in master right noe"
-=======
+ I am using this file to demonstrate automatic merge
+I am in master right noe"
  i am using this file to demonstrate conflicting merge
->>>>>>> realwork
